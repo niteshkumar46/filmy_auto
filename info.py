@@ -75,9 +75,9 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/topphdmovie')
 OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/NKP_PRO")
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/top_hd_movies_official')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/tophdmovie')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/tophdmovie")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/NKP_PRO")
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/topphdmovie')
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/topphdmovie")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/topphdmovie")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds
